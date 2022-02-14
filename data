@@ -1,5 +1,5 @@
 local data = {
-v = "1.0"
+"1.0" -- v
 }
 
 return data
