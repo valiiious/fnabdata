@@ -2,8 +2,4 @@ local data = {
 v = "1.0"
 }
 
-function data:GetData()
-return data
-end
-
 return data
